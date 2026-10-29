@@ -72,7 +72,7 @@ function Login() {
                 <div className="w-full flex justify-center">
                   <button
                     type="submit"
-                    className="py-4 px-12 font-semibold rounded-md shadow bg-button-purple text-white w-56 backdrop-blur-lg"
+                    className="py-4 px-12 font-semibold rounded-md shadow bg-red-500 text-white w-56 backdrop-blur-lg"
                   >
                     Login
                   </button>
